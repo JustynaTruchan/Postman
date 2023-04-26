@@ -1,4 +1,4 @@
-# Postman
+# Inicjatywa Cherry-IT, której głownym tematem był Postman
 Zakres pracy:
 * zapoznanie się z podstawową wiedzą dot. REST,
 * zapoznanie się z narzędziem Postman,
